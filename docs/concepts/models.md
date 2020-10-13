@@ -40,6 +40,9 @@ Now, in any place in my template i use a BookModel, in a loop for example, i can
 
 I can like retreive categories list, terms, formated date etc...
 
+> - Another benefits of this, is that i can update the logic inside a methods without changing my template
+> - I can extract complex operation in new file class
+
 Let's see a more complexe example
 
 

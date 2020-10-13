@@ -7,12 +7,14 @@
 
 - Concepts
     - [Templates](concepts/templates.md)
-    - [taxonomies](concepts/templates.md)
+    - [Taxonomies](concepts/taxonomies.md)
     - [Post types](concepts/post-type.md)
     - [Models](concepts/models.md)
-    - [Image](concepts/models.md)
-    - [Block](concepts/models.md)
-    - [Breadcrumb](concepts/models.md)
-    - [Pagination](concepts/models.md)
-    - [Caching](concepts/models.md)
+    - [Images](concepts/images.md)
+    - [Block](concepts/blocks.md)
+    - [Breadcrumb](concepts/breadcrumb.md)
+    - [Pagination](concepts/pagination.md)
+    - [Caching](concepts/caching.md)
   
+- [Go further](go-further.md)
+- [Issues](issues.md)
